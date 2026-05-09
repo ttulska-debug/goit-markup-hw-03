@@ -1,0 +1,21 @@
+.features-container {
+    margin-left: 141px;
+    margin-right: 141px;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: flex;
+}
+
+.features-list {
+    display: flex;
+    justify-content: flex-start;
+    gap: 24px;
+}
+
+.features-block {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap:8px;
+    width: calc((100% - 24px)/ 4);
+}
