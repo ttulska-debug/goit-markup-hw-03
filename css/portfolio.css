@@ -21,7 +21,7 @@
 .portfolio-text {
     display: flex;
     flex-direction: column;
-    column-gap: 8px;
+    gap: 8px;
     justify-content: left;
     padding-top: 32px;
     padding-bottom: 32px;
