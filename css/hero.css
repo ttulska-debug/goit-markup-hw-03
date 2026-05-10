@@ -1,12 +1,12 @@
 .hero-block {
     background-color: #2E2F42;
-    padding-top: 188px;
-    padding-bottom: 188px;
     display: flex;
     justify-content: center;
 }
 
  .hero-container {
+    padding-top: 68px;
+    padding-bottom: 68px;
     display: flex;
     flex-direction: column;
     gap:48px;
