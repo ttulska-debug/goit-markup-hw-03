@@ -71,14 +71,15 @@ img {
 
 .container {
     width: 1158px;  
+    margin: 0 auto;
+}
+
+.section {
+    width: auto;
     margin-left: 141px;
     margin-right: 141px;
     padding-left: 15px;
     padding-right: 15px;
-    
-}
-
-.section {
     padding-top: 120px;
     padding-bottom: 120px;
 }

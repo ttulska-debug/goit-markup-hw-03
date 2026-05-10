@@ -2,15 +2,16 @@
     background-color: #2E2F42;
     display: flex;
     justify-content: center;
+    padding-top: 188px;
+    padding-bottom:188px;
+    margin: 0 auto;
 }
 
  .hero-container {
-    padding-top: 68px;
-    padding-bottom: 68px;
     display: flex;
     flex-direction: column;
     gap:48px;
-    align-items: center;
+    align-items: center; 
 }
 
 .hero-title {

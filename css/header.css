@@ -1,5 +1,9 @@
 .header {
     border-bottom: 1px solid #e7e9fc;
+    margin-left: 141px;
+    margin-right: 141px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .header-container {
