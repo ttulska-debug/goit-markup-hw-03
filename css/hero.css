@@ -1,26 +1,22 @@
 .hero-block {
     background-color: #2E2F42;
-    padding: 188px 141px;
-    height: 600px;
+    padding-top: 188px;
+    padding-bottom: 188px;
     display: flex;
     justify-content: center;
 }
 
  .hero-container {
-    padding: 0px 15px;
-    width: 1158px;
-    height: 224px;
-    max-width: 1158px;
     display: flex;
     flex-direction: column;
-    gap: 48px;
+    gap:48px;
     align-items: center;
 }
 
 .hero-title {
     color: #FFFFFF;
     font-weight: 700;
-    font-size: 56px;
+    font-size:56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
@@ -31,11 +27,9 @@
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     color: #FFFFFF;
+    border: none;
     border-radius: 4px;
     padding: 16px 32px;
-    width: 169px;
-    height: 56px;
-    max-width: 169px; 
 }
 
 .button-hero:hover,

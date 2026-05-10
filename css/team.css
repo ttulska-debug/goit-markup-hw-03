@@ -14,18 +14,20 @@
 .team-card {
     background: #FFFFFF;
     text-align: center;
-    display: flex;
+    display:flex;
     flex-direction: column;
     width: calc((100% - 72px) / 4);
+    border-radius: 0 0 4px 4px;
 }
 
 .team-card-text {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 8px;
+    gap:8px;
     padding-top: 32px;
     padding-bottom: 32px;
     padding-left: 16px;
     padding-right: 16px;
 }
+

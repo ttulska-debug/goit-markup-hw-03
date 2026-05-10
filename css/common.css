@@ -28,7 +28,7 @@ li {
 h2 {
     color: #2e2f42;
     font-weight: 700;
-    font-size: 36px;
+    font-size:36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
@@ -70,12 +70,17 @@ img {
 }
 
 .container {
-  width: 1158px;  
-  padding: 0 15px;
-  margin: 0 auto;
+    width: 1158px;  
+    margin: 0 auto;
+    margin-left: 141px;
+    margin-right: 141px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
 }
 
 .section {
     padding-top: 120px;
     padding-bottom: 120px;
 }
+
