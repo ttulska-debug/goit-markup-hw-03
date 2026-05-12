@@ -69,18 +69,19 @@ img {
     height: auto;
 }
 
+.section {
+    width: auto;
+    display: flex;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
 .container {
-    width: 1158px;  
+    max-width: 1158px;  
     margin: 0 auto;
     padding-left: 15px;
     padding-right: 15px;
 }
 
-.section {
-    width: auto;
-    margin-left: 141px;
-    margin-right: 141px;
-    padding-top: 120px;
-    padding-bottom: 120px;
-}
+
 

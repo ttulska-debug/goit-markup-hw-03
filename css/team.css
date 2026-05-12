@@ -3,6 +3,10 @@
     margin: 0 auto;
 }
 
+.team-container {
+    width: auto;
+}
+
 .team-list {
     display: flex;
     flex-direction: row;

@@ -9,9 +9,9 @@
 }
 
 .features-block {
-    text-align: left;
     display: flex;
     flex-direction:column;
+    text-align: left;
     gap:8px;
     width: calc((100% - 72px)/ 4);
 }

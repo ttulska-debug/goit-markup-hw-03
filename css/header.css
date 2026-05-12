@@ -1,13 +1,14 @@
 .header {
+    display: flex;
     border-bottom: 1px solid #e7e9fc;
-    margin-left: 141px;
-    margin-right: 141px;
-    padding-left: 15px;
-    padding-right: 15px;
 }
 
 .header-container {
+    max-width: 1158px;
+    width: 100%;
     display: flex;
+    margin: 0 auto;
+    padding-inline: 15px;
     align-items: center;
 }
 
@@ -29,6 +30,7 @@ a {
 }
 
 .header-nav {
+    display: flex;
     flex-grow: 1;
     padding-left: 76px;
 }
@@ -52,6 +54,7 @@ a {
     justify-content: flex-end;
     gap:40px;
     margin-left: auto;
+    flex-wrap: wrap;
 }
 
 .info-adress-item a{
