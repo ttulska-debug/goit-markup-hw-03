@@ -8,11 +8,6 @@
     display: flex;
     margin: 0 auto;
     align-items: center;
-}
-
-a {
-    text-decoration: none;
-    color: #2E2F42;;
     padding-top: 24px;
     padding-bottom: 24px;
 }
@@ -39,7 +34,8 @@ a {
     column-gap: 40px;
 }
 
-.header-nav-menu a{
+.header-nav-menu
+.header-nav-link {
     color: #2E2F42;
     font-weight: 500;
     font-size:16px;
@@ -64,12 +60,16 @@ a {
     font-style: normal;
 }
 
-.header-nav-menu a:hover,
-.header-nav-menu a:focus{
+.header-nav-menu
+.header-nav-link:hover,
+.header-nav-menu
+.header-nav-link:focus{
     color: #404BBF;
 }
 
- .info-adress-item a:hover,
- .info-adress-item a:focus {
+ .info-adress-item
+ .header-adress-link:hover,
+ .info-adress-item
+ .header-adress-link:focus {
      color: #404BBF;
  }
