@@ -8,8 +8,6 @@
     display: flex;
     margin: 0 auto;
     align-items: center;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 
 .header-logo {
@@ -34,13 +32,17 @@
     column-gap: 40px;
 }
 
+
 .header-nav-menu
 .header-nav-link {
+    display: flex;
     color: #2E2F42;
     font-weight: 500;
     font-size:16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .info-adress {
@@ -48,7 +50,6 @@
     justify-content: flex-end;
     gap:40px;
     margin-left: auto;
-    flex-wrap: wrap;
 }
 
 .info-adress-item a{
