@@ -59,6 +59,8 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     font-style: normal;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .header-nav-menu
